@@ -10,8 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hai!!!");
-            Console.WriteLine("Bye!!!");
+           Console.WriteLine("Welcome!!!");
+            Console.WriteLine("Hello!!!");
+            Console.WriteLine("Haii!!!");
         }
     }
 }
